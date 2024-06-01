@@ -1,5 +1,10 @@
 
-# **Adidas Sales Report**
+# **Adidas Sales Report
+
+## Table of Contents
+-[Project overview](#Project-overview)
+-[Business Questions](#Business-Questions)
+
 
 ## Project overview 
 
