@@ -53,6 +53,7 @@ In the initial data preparation phase, we performed the followig
 ## Data Analysis using SQL
 
 ```SELECT * FROM table WHERE condition;```
+
 ![question 1](https://github.com/ridwan-the-data-analyst/Adidas-Sales-Analysis/assets/171451418/6321d578-1cf6-480c-9673-96e29c18e058)
 
 **Results and Findings**
