@@ -45,4 +45,85 @@ In the initial data preparation phase, we performed the followig
 
 ## Data Analysis using SQL
 
-``` SELECT * FROM table WHERE condition; ```
+```SELECT * FROM table WHERE condition;```
+![question 1](https://github.com/ridwan-the-data-analyst/Adidas-Sales-Analysis/assets/171451418/6321d578-1cf6-480c-9673-96e29c18e058)
+
+**Results and Findings**
+
+1. Men's Street Footwear has the highest sales. Women's Athletic Footwear has the lowest sales.
+
+2. West Gear contributes most of the sales, and Walmart contributes the lowest sales.
+
+3. Women's Apparel has the highest average price per unit. Women's Street Footwear has the lowest average price per unit.
+
+4. In-store shopping contributes the highest sales, while online shopping contributes the lowest sales.
+
+ 5. Men's Street Footwear, Women's Apparel, and Women's Athletic Footwear are the top 3 products that have the highest operating margin.
+
+
+**Recommendations for Adidas Sales:**
+
+Based on the analysis of Adidas sales data, the following recommendations can be made to optimize sales performance and profitability:
+
+1. Increase Focus on Men's Street Footwear:
+
+Rationale: Men's Street Footwear has the highest sales volume, indicating strong consumer demand.
+
+Action: Enhance marketing efforts, expand the product range, and ensure ample stock to capitalize on this popular category.
+
+2. Improve Marketing and Inventory for Women's Athletic Footwear:
+
+Rationale: Women's Athletic Footwear has the lowest sales, suggesting potential areas for growth.
+
+Action: Conduct market research to understand consumer preferences, improve product design, and increase 
+promotional activities to boost sales in this category.
+
+3. Strengthen Partnerships with High-Performing Retailers like West Gear:
+
+Rationale: West Gear contributes the most to overall sales, demonstrating a successful partnership.
+
+Action: Explore opportunities to expand product offerings through West Gear, negotiate favorable display 
+
+locations, and collaborate on exclusive product launches or marketing campaigns.
+
+4. Reassess Strategy with Low-Performing Retailers like Walmart:
+
+Rationale: Walmart contributes the least to sales, indicating underperformance.
+
+Action: Investigate reasons for low sales, such as inadequate product placement or insufficient marketing. 
+
+Consider targeted promotions or revised pricing strategies to improve performance or reassess the partnership if necessary.
+
+5. Optimize Pricing Strategy for Women's Apparel and Women's Street Footwear:
+
+Rationale: Women's Apparel has the highest average price per unit, while Women's Street Footwear has the lowest.
+
+Action: Maintain or slightly adjust the premium pricing of Women's Apparel to preserve its high-margin status. 
+
+Evaluate the pricing of Women's Street Footwear to ensure it is competitive while still maximizing profitability.
+
+6. Enhance In-Store Shopping Experience:
+
+Rationale: In-store shopping contributes the highest sales.
+
+Action: Invest in store layout, staff training, and customer service to enhance the shopping experience and drive higher in-store sales.
+
+7. Boost Online Sales Efforts:
+
+Rationale: Online shopping contributes the lowest sales, representing an untapped opportunity.
+
+Action: Improve the online shopping experience through website enhancements, user-friendly interfaces, better 
+
+online marketing, and exclusive online promotions to increase sales from this channel.
+
+8. Capitalize on High Operating Margin Products:
+
+Rationale: Men's Street Footwear, Women's Apparel, and Women's Athletic Footwear have the highest operating 
+margins.
+
+Action: Prioritize these products in marketing campaigns and inventory management to maximize profitability. Explore opportunities for product innovation and differentiation within these high-margin categories.
+
+By implementing these targeted recommendations, Adidas can leverage its strengths, address areas of underperformance, and enhance overall sales and profitability.
+
+
+
